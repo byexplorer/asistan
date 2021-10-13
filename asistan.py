@@ -110,7 +110,7 @@ def speak(string):
     os.remove(file)
 
 
-speak("Hoşgeldiniz Yine Üzgün Görünüyorsunuz  ")
+speak("Hoşgeldiniz ByExplorer ")
 while 1:
    voice = record()
    print(voice)
